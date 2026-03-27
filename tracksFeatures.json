@@ -15,7 +15,8 @@
         "speechiness": 0.151,
         "tempo": 102.757,
         "trackTitle": "Make Them Suffer",
-        "valence": 0.234
+        "valence": 0.234,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 5.48e-06,
@@ -33,7 +34,8 @@
         "speechiness": 0.0868,
         "tempo": 183.295,
         "trackTitle": "Fucked With A Knife",
-        "valence": 0.425
+        "valence": 0.425,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 2.19e-05,
@@ -51,7 +53,8 @@
         "speechiness": 0.103,
         "tempo": 144.481,
         "trackTitle": "Stripped, Raped, And Strangled",
-        "valence": 0.0724
+        "valence": 0.0724,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 0.00127,
@@ -69,7 +72,8 @@
         "speechiness": 0.153,
         "tempo": 79.792,
         "trackTitle": "Evisceration Plague",
-        "valence": 0.257
+        "valence": 0.257,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 1.8e-05,
@@ -87,7 +91,8 @@
         "speechiness": 0.176,
         "tempo": 114.989,
         "trackTitle": "Blood Blind",
-        "valence": 0.037
+        "valence": 0.037,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 4.2e-05,
@@ -105,7 +110,8 @@
         "speechiness": 0.124,
         "tempo": 89.704,
         "trackTitle": "Skin Milk",
-        "valence": 0.148
+        "valence": 0.148,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 9.38e-05,
@@ -123,7 +129,8 @@
         "speechiness": 0.147,
         "tempo": 82.03,
         "trackTitle": "Tow Rope Around the Throat",
-        "valence": 0.127
+        "valence": 0.127,
+        "genre":  "Death Metal"
     },
     {
         "acousticness": 2.01e-05,
@@ -141,7 +148,8 @@
         "speechiness": 0.0799,
         "tempo": 65.999,
         "trackTitle": "Itty Bitty Pieces",
-        "valence": 0.133
+        "valence": 0.133,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 9.92e-05,
@@ -159,7 +167,8 @@
         "speechiness": 0.118,
         "tempo": 85.483,
         "trackTitle": "Drilling Your Head",
-        "valence": 0.303
+        "valence": 0.303,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 9.02e-05,
@@ -177,7 +186,8 @@
         "speechiness": 0.101,
         "tempo": 88.257,
         "trackTitle": "Hands of Eternity",
-        "valence": 0.0391
+        "valence": 0.0391,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 0.000245,
@@ -195,7 +205,8 @@
         "speechiness": 0.062,
         "tempo": 88.887,
         "trackTitle": "Gross Abuse",
-        "valence": 0.59
+        "valence": 0.59,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 7.99e-05,
@@ -213,7 +224,8 @@
         "speechiness": 0.117,
         "tempo": 107.536,
         "trackTitle": "Release the Stench",
-        "valence": 0.0843
+        "valence": 0.0843,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 2.45e-05,
@@ -231,7 +243,8 @@
         "speechiness": 0.095,
         "tempo": 60.631,
         "trackTitle": "Inhumane Harvest",
-        "valence": 0.334
+        "valence": 0.334,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 0.000359,
@@ -249,7 +262,8 @@
         "speechiness": 0.0697,
         "tempo": 92.465,
         "trackTitle": "Actin' Up",
-        "valence": 0.337
+        "valence": 0.337,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 1.23e-05,
@@ -267,7 +281,8 @@
         "speechiness": 0.128,
         "tempo": 93.069,
         "trackTitle": "All Talk",
-        "valence": 0.217
+        "valence": 0.217,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 0.000231,
@@ -285,7 +300,8 @@
         "speechiness": 0.135,
         "tempo": 187.662,
         "trackTitle": "Masters of Morbidity",
-        "valence": 0.162
+        "valence": 0.162,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 0.000535,
@@ -303,7 +319,8 @@
         "speechiness": 0.0781,
         "tempo": 172.059,
         "trackTitle": "Scourge of Iron",
-        "valence": 0.339
+        "valence": 0.339,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 6.27e-05,
@@ -321,7 +338,8 @@
         "speechiness": 0.118,
         "tempo": 99.338,
         "trackTitle": "No Remorse",
-        "valence": 0.275
+        "valence": 0.275,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 5.22e-05,
@@ -339,7 +357,8 @@
         "speechiness": 0.079,
         "tempo": 96.969,
         "trackTitle": "Hammer Smashed Face",
-        "valence": 0.368
+        "valence": 0.368,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 8.35e-05,
@@ -357,7 +376,8 @@
         "speechiness": 0.0865,
         "tempo": 99.046,
         "trackTitle": "I Cum Blood",
-        "valence": 0.449
+        "valence": 0.449,
+        "genre": "Death Metal"
     },
     {
         "acousticness": 0.00072,
@@ -375,7 +395,8 @@
         "speechiness": 0.0342,
         "tempo": 100.098,
         "trackTitle": "Jealous",
-        "valence": 0.19
+        "valence": 0.19,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.0974,
@@ -393,7 +414,8 @@
         "speechiness": 0.0468,
         "tempo": 128.141,
         "trackTitle": "Hated By Life Itself",
-        "valence": 0.175
+        "valence": 0.175,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.181,
@@ -411,7 +433,8 @@
         "speechiness": 0.0361,
         "tempo": 141.941,
         "trackTitle": "Frustrated",
-        "valence": 0.0865
+        "valence": 0.0865,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.00161,
@@ -429,7 +452,8 @@
         "speechiness": 0.0398,
         "tempo": 130.331,
         "trackTitle": "Lifeless",
-        "valence": 0.211
+        "valence": 0.211,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 1.09e-05,
@@ -447,7 +471,8 @@
         "speechiness": 0.0544,
         "tempo": 126.573,
         "trackTitle": "The Iron Claws of Satan",
-        "valence": 0.144
+        "valence": 0.144,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 6.78e-06,
@@ -465,7 +490,8 @@
         "speechiness": 0.0584,
         "tempo": 120.029,
         "trackTitle": "Death at Sundown",
-        "valence": 0.149
+        "valence": 0.149,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 4.44e-06,
@@ -483,7 +509,8 @@
         "speechiness": 0.0796,
         "tempo": 134.596,
         "trackTitle": "Crimson Lament",
-        "valence": 0.109
+        "valence": 0.109,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 9.54e-06,
@@ -501,7 +528,8 @@
         "speechiness": 0.0864,
         "tempo": 159.942,
         "trackTitle": "Pestilence Upon Us",
-        "valence": 0.121
+        "valence": 0.121,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 5.12e-06,
@@ -519,7 +547,8 @@
         "speechiness": 0.163,
         "tempo": 94.746,
         "trackTitle": "The Sinister Force of the Moon",
-        "valence": 0.0362
+        "valence": 0.0362,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 3.54e-06,
@@ -537,7 +566,8 @@
         "speechiness": 0.0799,
         "tempo": 184.816,
         "trackTitle": "With the Wrath of Satan They Burn",
-        "valence": 0.13
+        "valence": 0.13,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.8,
@@ -555,7 +585,8 @@
         "speechiness": 0.0287,
         "tempo": 102.428,
         "trackTitle": "The Sinking Belle (Blue Sheep)",
-        "valence": 0.0472
+        "valence": 0.0472,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000179,
@@ -573,7 +604,8 @@
         "speechiness": 0.0431,
         "tempo": 105.094,
         "trackTitle": "Flag of Fate",
-        "valence": 0.564
+        "valence": 0.564,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 1.97e-06,
@@ -591,7 +623,8 @@
         "speechiness": 0.0681,
         "tempo": 169.855,
         "trackTitle": "Convince Me to Bleed",
-        "valence": 0.0794
+        "valence": 0.0794,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.00276,
@@ -609,7 +642,8 @@
         "speechiness": 0.0745,
         "tempo": 155.058,
         "trackTitle": "Hide from the Sun",
-        "valence": 0.0392
+        "valence": 0.0392,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.162,
@@ -627,7 +661,8 @@
         "speechiness": 0.0477,
         "tempo": 75.151,
         "trackTitle": "Frost (C)",
-        "valence": 0.0334
+        "valence": 0.0334,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 7.09e-06,
@@ -645,7 +680,8 @@
         "speechiness": 0.0386,
         "tempo": 82.392,
         "trackTitle": "It Took the Night to Believe",
-        "valence": 0.168
+        "valence": 0.168,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.164,
@@ -663,7 +699,8 @@
         "speechiness": 0.0483,
         "tempo": 67.221,
         "trackTitle": "Orthodox Caveman",
-        "valence": 0.041
+        "valence": 0.041,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.000697,
@@ -681,7 +718,8 @@
         "speechiness": 0.0384,
         "tempo": 120.408,
         "trackTitle": "Etna",
-        "valence": 0.0337
+        "valence": 0.0337,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000351,
@@ -699,7 +737,8 @@
         "speechiness": 0.0865,
         "tempo": 115.964,
         "trackTitle": "Grabenlieder",
-        "valence": 0.115
+        "valence": 0.115,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.39,
@@ -717,7 +756,8 @@
         "speechiness": 0.0382,
         "tempo": 101.238,
         "trackTitle": "Between Sleipnir's Breaths",
-        "valence": 0.0383
+        "valence": 0.0383,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 8.04e-06,
@@ -735,7 +775,8 @@
         "speechiness": 0.0538,
         "tempo": 153.959,
         "trackTitle": "Menschenmühle",
-        "valence": 0.16
+        "valence": 0.16,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 2.88e-06,
@@ -753,7 +794,8 @@
         "speechiness": 0.0612,
         "tempo": 180.035,
         "trackTitle": "Waffenbrüder",
-        "valence": 0.126
+        "valence": 0.126,
+        "genre": "Blackened Metal"
     },
     {
         "acousticness": 8.29e-06,
@@ -771,7 +813,8 @@
         "speechiness": 0.0479,
         "tempo": 99.997,
         "trackTitle": "Panzerhenker",
-        "valence": 0.215
+        "valence": 0.215,
+        "genre": "Blackened Metal"
     },
     {
         "acousticness": 0.000119,
@@ -789,7 +832,8 @@
         "speechiness": 0.0405,
         "tempo": 80.384,
         "trackTitle": "Deconstruction",
-        "valence": 0.533
+        "valence": 0.533,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 9.02e-05,
@@ -807,7 +851,8 @@
         "speechiness": 0.0343,
         "tempo": 132.121,
         "trackTitle": "An Alternative to Freedom",
-        "valence": 0.264
+        "valence": 0.264,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 3.2e-05,
@@ -825,7 +870,8 @@
         "speechiness": 0.047,
         "tempo": 165.169,
         "trackTitle": "Ghosts House",
-        "valence": 0.61
+        "valence": 0.61,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.000657,
@@ -843,7 +889,8 @@
         "speechiness": 0.0312,
         "tempo": 109.452,
         "trackTitle": "White Light Suicide",
-        "valence": 0.434
+        "valence": 0.434,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 3.09e-05,
@@ -861,7 +908,8 @@
         "speechiness": 0.0604,
         "tempo": 171.126,
         "trackTitle": "Democracy",
-        "valence": 0.675
+        "valence": 0.675,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.00927,
@@ -879,7 +927,8 @@
         "speechiness": 0.155,
         "tempo": 136.299,
         "trackTitle": "The Outcast",
-        "valence": 0.359
+        "valence": 0.359,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.748,
@@ -897,7 +946,8 @@
         "speechiness": 0.0463,
         "tempo": 81.246,
         "trackTitle": "I Hope Death Finds Me Well",
-        "valence": 0.0562
+        "valence": 0.0562,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.000378,
@@ -915,7 +965,8 @@
         "speechiness": 0.0813,
         "tempo": 179.938,
         "trackTitle": "Die Schlacht bei Tannenberg",
-        "valence": 0.184
+        "valence": 0.184,
+        "genre": "Blackened Metal"
     },
     {
         "acousticness": 1.2e-05,
@@ -933,7 +984,8 @@
         "speechiness": 0.0451,
         "tempo": 181.967,
         "trackTitle": "Sturmtrupp",
-        "valence": 0.133
+        "valence": 0.133,
+        "genre": "Blackened Metal"
     },
     {
         "acousticness": 0.546,
@@ -951,7 +1003,8 @@
         "speechiness": 0.299,
         "tempo": 128.541,
         "trackTitle": "Burial",
-        "valence": 0.105
+        "valence": 0.105,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.00926,
@@ -969,7 +1022,8 @@
         "speechiness": 0.35,
         "tempo": 179.532,
         "trackTitle": "Golden Number",
-        "valence": 0.057
+        "valence": 0.057,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.922,
@@ -987,7 +1041,8 @@
         "speechiness": 0.0327,
         "tempo": 112.032,
         "trackTitle": "Beneath the Shade Tree",
-        "valence": 0.0361
+        "valence": 0.0361,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 2.06e-06,
@@ -1005,7 +1060,8 @@
         "speechiness": 0.094,
         "tempo": 99.799,
         "trackTitle": "The Deceased Dwell In Darkness",
-        "valence": 0.0357
+        "valence": 0.0357,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.0,
@@ -1023,7 +1079,8 @@
         "speechiness": 0.0781,
         "tempo": 170.034,
         "trackTitle": "Open The Noxious Veins",
-        "valence": 0.0397
+        "valence": 0.0397,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.000493,
@@ -1041,7 +1098,8 @@
         "speechiness": 0.0511,
         "tempo": 125.029,
         "trackTitle": "Unbearable",
-        "valence": 0.123
+        "valence": 0.123,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.88,
@@ -1059,7 +1117,8 @@
         "speechiness": 0.0608,
         "tempo": 150.429,
         "trackTitle": "Sin Nanna",
-        "valence": 0.077
+        "valence": 0.077,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 7.35e-05,
@@ -1077,7 +1136,8 @@
         "speechiness": 0.0469,
         "tempo": 95.943,
         "trackTitle": "It's Not Because of You",
-        "valence": 0.71
+        "valence": 0.71,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.000845,
@@ -1095,7 +1155,8 @@
         "speechiness": 0.074,
         "tempo": 110.007,
         "trackTitle": "Happyhouse",
-        "valence": 0.0699
+        "valence": 0.0699,
+        "genre": "Black Metal"
     },
     {
         "acousticness": 0.000405,
@@ -1113,7 +1174,8 @@
         "speechiness": 0.173,
         "tempo": 87.499,
         "trackTitle": "Raining Blood",
-        "valence": 0.0363
+        "valence": 0.0363,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000295,
@@ -1131,7 +1193,8 @@
         "speechiness": 0.0516,
         "tempo": 124.219,
         "trackTitle": "Farewell",
-        "valence": 0.0392
+        "valence": 0.0392,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 9.41e-05,
@@ -1149,7 +1212,8 @@
         "speechiness": 0.147,
         "tempo": 105.459,
         "trackTitle": "Angel Of Death",
-        "valence": 0.092
+        "valence": 0.092,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 9.04e-05,
@@ -1167,7 +1231,8 @@
         "speechiness": 0.0441,
         "tempo": 140.018,
         "trackTitle": "floating point",
-        "valence": 0.274
+        "valence": 0.274,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 2.66e-06,
@@ -1185,7 +1250,8 @@
         "speechiness": 0.0801,
         "tempo": 76.115,
         "trackTitle": "Pink",
-        "valence": 0.0628
+        "valence": 0.0628,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000278,
@@ -1203,7 +1269,8 @@
         "speechiness": 0.108,
         "tempo": 104.009,
         "trackTitle": "Laid to Rest",
-        "valence": 0.154
+        "valence": 0.154,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 2.3e-05,
@@ -1221,7 +1288,8 @@
         "speechiness": 0.0962,
         "tempo": 176.313,
         "trackTitle": "Evil Has No Boundaries",
-        "valence": 0.262
+        "valence": 0.262,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000264,
@@ -1239,7 +1307,8 @@
         "speechiness": 0.067,
         "tempo": 105.9,
         "trackTitle": "Hell Awaits",
-        "valence": 0.0994
+        "valence": 0.0994,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000132,
@@ -1257,7 +1326,8 @@
         "speechiness": 0.316,
         "tempo": 140.071,
         "trackTitle": "South Of Heaven",
-        "valence": 0.0395
+        "valence": 0.0395,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 8.06e-05,
@@ -1275,7 +1345,8 @@
         "speechiness": 0.165,
         "tempo": 130.97,
         "trackTitle": "Redneck",
-        "valence": 0.0401
+        "valence": 0.0401,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.0207,
@@ -1293,7 +1364,8 @@
         "speechiness": 0.0283,
         "tempo": 149.985,
         "trackTitle": "Death Whispered a Lullaby",
-        "valence": 0.143
+        "valence": 0.143,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 2.5e-05,
@@ -1311,7 +1383,8 @@
         "speechiness": 0.0361,
         "tempo": 85.286,
         "trackTitle": "Death Can't Save You",
-        "valence": 0.107
+        "valence": 0.107,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000458,
@@ -1329,7 +1402,8 @@
         "speechiness": 0.0877,
         "tempo": 192.481,
         "trackTitle": "The Moth",
-        "valence": 0.295
+        "valence": 0.295,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000131,
@@ -1347,7 +1421,8 @@
         "speechiness": 0.24,
         "tempo": 139.884,
         "trackTitle": "Vicious Cycle",
-        "valence": 0.172
+        "valence": 0.172,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 7.82e-05,
@@ -1365,7 +1440,8 @@
         "speechiness": 0.149,
         "tempo": 154.987,
         "trackTitle": "Mean It",
-        "valence": 0.56
+        "valence": 0.56,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.00124,
@@ -1383,7 +1459,8 @@
         "speechiness": 0.0517,
         "tempo": 110.05,
         "trackTitle": "Hate Affair (Manufactured Rage)",
-        "valence": 0.159
+        "valence": 0.159,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 3.68e-05,
@@ -1401,7 +1478,8 @@
         "speechiness": 0.212,
         "tempo": 184.773,
         "trackTitle": "Mark of The Beast",
-        "valence": 0.222
+        "valence": 0.222,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 4.39e-06,
@@ -1419,7 +1497,8 @@
         "speechiness": 0.0362,
         "tempo": 141.458,
         "trackTitle": "Dagger Dragger",
-        "valence": 0.501
+        "valence": 0.501,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 1.53e-05,
@@ -1437,7 +1516,8 @@
         "speechiness": 0.0318,
         "tempo": 86.207,
         "trackTitle": "Feed The Dream",
-        "valence": 0.472
+        "valence": 0.472,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 0.0107,
@@ -1455,7 +1535,8 @@
         "speechiness": 0.0709,
         "tempo": 122.311,
         "trackTitle": "Scene Seven: I. The Dance of Eternity",
-        "valence": 0.526
+        "valence": 0.526,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 3.65e-05,
@@ -1473,7 +1554,8 @@
         "speechiness": 0.0625,
         "tempo": 104.134,
         "trackTitle": "Repentless",
-        "valence": 0.253
+        "valence": 0.253,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 4.39e-05,
@@ -1491,7 +1573,8 @@
         "speechiness": 0.0866,
         "tempo": 107.003,
         "trackTitle": "WMD",
-        "valence": 0.294
+        "valence": 0.294,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 7.65e-05,
@@ -1509,7 +1592,8 @@
         "speechiness": 0.146,
         "tempo": 98.878,
         "trackTitle": "War Ensemble",
-        "valence": 0.097
+        "valence": 0.097,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000262,
@@ -1527,7 +1611,8 @@
         "speechiness": 0.205,
         "tempo": 110.125,
         "trackTitle": "Dead Skin Mask",
-        "valence": 0.0418
+        "valence": 0.0418,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.00338,
@@ -1545,7 +1630,8 @@
         "speechiness": 0.163,
         "tempo": 151.729,
         "trackTitle": "Seasons In The Abyss",
-        "valence": 0.17
+        "valence": 0.17,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.000233,
@@ -1563,7 +1649,8 @@
         "speechiness": 0.0834,
         "tempo": 95.438,
         "trackTitle": "Flying Whales",
-        "valence": 0.2
+        "valence": 0.2,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.834,
@@ -1581,7 +1668,8 @@
         "speechiness": 0.0476,
         "tempo": 90.102,
         "trackTitle": "Come On Down",
-        "valence": 0.289
+        "valence": 0.289,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00108,
@@ -1599,7 +1687,8 @@
         "speechiness": 0.084,
         "tempo": 172.812,
         "trackTitle": "Lateralus",
-        "valence": 0.371
+        "valence": 0.371,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00227,
@@ -1617,7 +1706,8 @@
         "speechiness": 0.199,
         "tempo": 118.513,
         "trackTitle": "Omertá",
-        "valence": 0.182
+        "valence": 0.182,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.00408,
@@ -1635,7 +1725,8 @@
         "speechiness": 0.0447,
         "tempo": 163.89,
         "trackTitle": "Dystopia",
-        "valence": 0.195
+        "valence": 0.195,
+        "genre": "Doom Metal"
     },
     {
         "acousticness": 3.45e-05,
@@ -1653,7 +1744,8 @@
         "speechiness": 0.0568,
         "tempo": 82.305,
         "trackTitle": "Judith",
-        "valence": 0.304
+        "valence": 0.304,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 7.01e-05,
@@ -1671,7 +1763,8 @@
         "speechiness": 0.137,
         "tempo": 110.336,
         "trackTitle": "Walk with Me In Hell",
-        "valence": 0.0946
+        "valence": 0.0946,
+        "genre": "Thrash Metal"
     },
     {
         "acousticness": 0.0136,
@@ -1689,7 +1782,8 @@
         "speechiness": 0.0534,
         "tempo": 134.992,
         "trackTitle": "Living After Midnight",
-        "valence": 0.819
+        "valence": 0.819,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 7.62e-06,
@@ -1707,7 +1801,8 @@
         "speechiness": 0.117,
         "tempo": 119.283,
         "trackTitle": "Overkill",
-        "valence": 0.19
+        "valence": 0.19,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.000195,
@@ -1725,7 +1820,8 @@
         "speechiness": 0.16,
         "tempo": 103.162,
         "trackTitle": "Painkiller",
-        "valence": 0.1
+        "valence": 0.1,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 8.24e-06,
@@ -1743,25 +1839,8 @@
         "speechiness": 0.0678,
         "tempo": 139.958,
         "trackTitle": "Marigold",
-        "valence": 0.0891
-    },
-    {
-        "acousticness": 0.00653,
-        "artist_name": "WWE",
-        "danceability": 0.303,
-        "energy": 0.978,
-        "href": "https://open.spotify.com/track/2zSpaFB7e0Yo1QKsDQ22Ol",
-        "id": "66ca1be9-a1e8-4c55-a070-62d2867b8cf1",
-        "instrumentalness": 0.0,
-        "isrc": "USBAC1201500",
-        "key": 8,
-        "liveness": 0.0958,
-        "loudness": -2.123,
-        "mode": 1,
-        "speechiness": 0.122,
-        "tempo": 170.286,
-        "trackTitle": "The Game (Triple H)",
-        "valence": 0.28
+        "valence": 0.0891,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00572,
@@ -1779,7 +1858,8 @@
         "speechiness": 0.0496,
         "tempo": 138.225,
         "trackTitle": "You've Got Another Thing Coming",
-        "valence": 0.532
+        "valence": 0.532,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.024,
@@ -1797,7 +1877,8 @@
         "speechiness": 0.0857,
         "tempo": 164.019,
         "trackTitle": "Breaking the Law",
-        "valence": 0.491
+        "valence": 0.491,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.00115,
@@ -1815,7 +1896,8 @@
         "speechiness": 0.0471,
         "tempo": 134.589,
         "trackTitle": "Killed by Death",
-        "valence": 0.24
+        "valence": 0.24,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.000119,
@@ -1833,7 +1915,8 @@
         "speechiness": 0.0772,
         "tempo": 200.011,
         "trackTitle": "The Good Doctor",
-        "valence": 0.381
+        "valence": 0.381,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00209,
@@ -1851,7 +1934,8 @@
         "speechiness": 0.0314,
         "tempo": 114.174,
         "trackTitle": "Pneuma",
-        "valence": 0.0586
+        "valence": 0.0586,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00268,
@@ -1869,7 +1953,8 @@
         "speechiness": 0.103,
         "tempo": 185.664,
         "trackTitle": "The Sentinel",
-        "valence": 0.321
+        "valence": 0.321,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.0381,
@@ -1887,7 +1972,8 @@
         "speechiness": 0.0311,
         "tempo": 172.123,
         "trackTitle": "Beyond the Realms of Death",
-        "valence": 0.544
+        "valence": 0.544,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.162,
@@ -1905,7 +1991,8 @@
         "speechiness": 0.0876,
         "tempo": 175.922,
         "trackTitle": "God Was Never on Your Side",
-        "valence": 0.183
+        "valence": 0.183,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.000106,
@@ -1923,7 +2010,8 @@
         "speechiness": 0.0824,
         "tempo": 149.91,
         "trackTitle": "In the Name of Tragedy",
-        "valence": 0.447
+        "valence": 0.447,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.0126,
@@ -1941,7 +2029,8 @@
         "speechiness": 0.0581,
         "tempo": 151.966,
         "trackTitle": "The Price",
-        "valence": 0.54
+        "valence": 0.54,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00946,
@@ -1959,25 +2048,8 @@
         "speechiness": 0.088,
         "tempo": 112.874,
         "trackTitle": "Screaming for Vengeance",
-        "valence": 0.192
-    },
-    {
-        "acousticness": 0.000453,
-        "artist_name": "WWE",
-        "danceability": 0.622,
-        "energy": 0.816,
-        "href": "https://open.spotify.com/track/1lelIeP3r2vCxDkNI05jZp",
-        "id": "1eed40cc-8ce5-418b-9709-0d676ff43267",
-        "instrumentalness": 0.0169,
-        "isrc": "USBAC1010128",
-        "key": 8,
-        "liveness": 0.115,
-        "loudness": -6.072,
-        "mode": 1,
-        "speechiness": 0.0483,
-        "tempo": 120.06,
-        "trackTitle": "King of Kings (Triple H)",
-        "valence": 0.339
+        "valence": 0.192,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.000299,
@@ -1995,7 +2067,8 @@
         "speechiness": 0.0526,
         "tempo": 95.013,
         "trackTitle": "Death Is Not Defeat",
-        "valence": 0.222
+        "valence": 0.222,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00226,
@@ -2013,7 +2086,8 @@
         "speechiness": 0.0279,
         "tempo": 93.854,
         "trackTitle": "Warflower",
-        "valence": 0.4
+        "valence": 0.4,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.000716,
@@ -2031,7 +2105,8 @@
         "speechiness": 0.0554,
         "tempo": 96.72,
         "trackTitle": "Electric Eye",
-        "valence": 0.361
+        "valence": 0.361,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.000148,
@@ -2049,7 +2124,8 @@
         "speechiness": 0.144,
         "tempo": 97.105,
         "trackTitle": "Night Crawler",
-        "valence": 0.103
+        "valence": 0.103,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.174,
@@ -2067,7 +2143,8 @@
         "speechiness": 0.037,
         "tempo": 151.575,
         "trackTitle": "Turbo Lover - Remastered",
-        "valence": 0.746
+        "valence": 0.746,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 3.24e-05,
@@ -2085,7 +2162,8 @@
         "speechiness": 0.0265,
         "tempo": 97.958,
         "trackTitle": "Hellraiser",
-        "valence": 0.667
+        "valence": 0.667,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.00334,
@@ -2103,7 +2181,8 @@
         "speechiness": 0.202,
         "tempo": 123.68,
         "trackTitle": "Rock 'n' Roll",
-        "valence": 0.204
+        "valence": 0.204,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 0.000325,
@@ -2121,7 +2200,8 @@
         "speechiness": 0.044,
         "tempo": 176.214,
         "trackTitle": "Freaks & Animals",
-        "valence": 0.337
+        "valence": 0.337,
+        "genre": "Prog Metal"
     },
     {
         "acousticness": 0.00313,
@@ -2139,25 +2219,8 @@
         "speechiness": 0.213,
         "tempo": 140.221,
         "trackTitle": "Ace of Spades",
-        "valence": 0.198
-    },
-    {
-        "acousticness": 0.00329,
-        "artist_name": "Ozzy Osbourne",
-        "danceability": 0.622,
-        "energy": 0.905,
-        "href": "https://open.spotify.com/track/0BW3ImhGyAdbM62rHPyNNB",
-        "id": "f2069574-eb94-411f-91d0-c0cfdcba66b8",
-        "instrumentalness": 2.93e-05,
-        "isrc": "USSM12105516",
-        "key": 4,
-        "liveness": 0.115,
-        "loudness": -5.12,
-        "mode": 1,
-        "speechiness": 0.0428,
-        "tempo": 96.049,
-        "trackTitle": "Hellraiser - 30th Anniversary Edition",
-        "valence": 0.441
+        "valence": 0.198,
+        "genre": "Heavy Metal"
     },
     {
         "acousticness": 3.58e-05,
@@ -2175,7 +2238,8 @@
         "speechiness": 0.068,
         "tempo": 94.966,
         "trackTitle": "Passchenhell",
-        "valence": 0.141
+        "valence": 0.141,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 4.02e-05,
@@ -2193,7 +2257,8 @@
         "speechiness": 0.0343,
         "tempo": 146.627,
         "trackTitle": "...and Suffer As One",
-        "valence": 0.134
+        "valence": 0.134,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.00677,
@@ -2211,7 +2276,8 @@
         "speechiness": 0.0791,
         "tempo": 132.045,
         "trackTitle": "REPULSIVE IN ITS SPLENDID BEAUTY",
-        "valence": 0.196
+        "valence": 0.196,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 1.97e-05,
@@ -2229,7 +2295,8 @@
         "speechiness": 0.106,
         "tempo": 175.981,
         "trackTitle": "Ora Pro Nobis Lucifer",
-        "valence": 0.0557
+        "valence": 0.0557,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 8.7e-05,
@@ -2247,7 +2314,8 @@
         "speechiness": 0.455,
         "tempo": 128.077,
         "trackTitle": "Demigod",
-        "valence": 0.0697
+        "valence": 0.0697,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.000173,
@@ -2265,7 +2333,8 @@
         "speechiness": 0.084,
         "tempo": 90.497,
         "trackTitle": "Conquer All",
-        "valence": 0.253
+        "valence": 0.253,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 5.8e-05,
@@ -2283,7 +2352,8 @@
         "speechiness": 0.154,
         "tempo": 100.074,
         "trackTitle": "Arrival. The Meuse-Argonne",
-        "valence": 0.0651
+        "valence": 0.0651,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000654,
@@ -2301,7 +2371,8 @@
         "speechiness": 0.0627,
         "tempo": 130.005,
         "trackTitle": "The Hundred Days Offensive",
-        "valence": 0.0999
+        "valence": 0.0999,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000246,
@@ -2319,7 +2390,8 @@
         "speechiness": 0.0441,
         "tempo": 111.004,
         "trackTitle": "Planets Collide",
-        "valence": 0.125
+        "valence": 0.125,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.0164,
@@ -2337,7 +2409,8 @@
         "speechiness": 0.0597,
         "tempo": 110.084,
         "trackTitle": "THE LASTING DOSE",
-        "valence": 0.216
+        "valence": 0.216,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.00178,
@@ -2355,7 +2428,8 @@
         "speechiness": 0.0664,
         "tempo": 122.419,
         "trackTitle": "To Build a Mountain",
-        "valence": 0.151
+        "valence": 0.151,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.0103,
@@ -2373,7 +2447,8 @@
         "speechiness": 0.0775,
         "tempo": 134.988,
         "trackTitle": "THROUGH THE ASHES",
-        "valence": 0.225
+        "valence": 0.225,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.00819,
@@ -2391,7 +2466,8 @@
         "speechiness": 0.0456,
         "tempo": 104.385,
         "trackTitle": "Counting Daze",
-        "valence": 0.304
+        "valence": 0.304,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000216,
@@ -2409,7 +2485,8 @@
         "speechiness": 0.0807,
         "tempo": 118.064,
         "trackTitle": "Blow Your Trumpets Gabriel",
-        "valence": 0.176
+        "valence": 0.176,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.000124,
@@ -2427,7 +2504,8 @@
         "speechiness": 0.0569,
         "tempo": 112.073,
         "trackTitle": "The Satanist",
-        "valence": 0.365
+        "valence": 0.365,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.000569,
@@ -2445,7 +2523,8 @@
         "speechiness": 0.18,
         "tempo": 115.103,
         "trackTitle": "The Saw Is the Law",
-        "valence": 0.216
+        "valence": 0.216,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.000205,
@@ -2463,7 +2542,8 @@
         "speechiness": 0.0947,
         "tempo": 100.009,
         "trackTitle": "Gasmask",
-        "valence": 0.0379
+        "valence": 0.0379,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.00712,
@@ -2481,7 +2561,8 @@
         "speechiness": 0.148,
         "tempo": 118.63,
         "trackTitle": "Verdun",
-        "valence": 0.0758
+        "valence": 0.0758,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 4.97e-05,
@@ -2499,7 +2580,8 @@
         "speechiness": 0.0714,
         "tempo": 109.949,
         "trackTitle": "Fn .380 Acp#19074",
-        "valence": 0.0774
+        "valence": 0.0774,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 4.88e-05,
@@ -2517,7 +2599,8 @@
         "speechiness": 0.0876,
         "tempo": 120.016,
         "trackTitle": "Don't Tread on Me (Harlem Hellfighters)",
-        "valence": 0.0743
+        "valence": 0.0743,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 1.67e-05,
@@ -2535,7 +2618,8 @@
         "speechiness": 0.0554,
         "tempo": 150.021,
         "trackTitle": "Hexenwahn",
-        "valence": 0.0648
+        "valence": 0.0648,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.00234,
@@ -2553,7 +2637,8 @@
         "speechiness": 0.0836,
         "tempo": 163.925,
         "trackTitle": "Hiob",
-        "valence": 0.0878
+        "valence": 0.0878,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.000507,
@@ -2571,7 +2656,8 @@
         "speechiness": 0.0999,
         "tempo": 172.157,
         "trackTitle": "Written on Tombstones",
-        "valence": 0.0779
+        "valence": 0.0779,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.000195,
@@ -2589,7 +2675,8 @@
         "speechiness": 0.105,
         "tempo": 171.966,
         "trackTitle": "Thousand Years of Sand",
-        "valence": 0.13
+        "valence": 0.13,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.0104,
@@ -2607,7 +2694,8 @@
         "speechiness": 0.0321,
         "tempo": 128.676,
         "trackTitle": "Embracing Emptiness",
-        "valence": 0.439
+        "valence": 0.439,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 1.67e-05,
@@ -2625,7 +2713,8 @@
         "speechiness": 0.0746,
         "tempo": 169.822,
         "trackTitle": "Save Us",
-        "valence": 0.0533
+        "valence": 0.0533,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 0.000137,
@@ -2643,7 +2732,8 @@
         "speechiness": 0.063,
         "tempo": 154.182,
         "trackTitle": "Burn It Down",
-        "valence": 0.0528
+        "valence": 0.0528,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 3.12e-06,
@@ -2661,7 +2751,8 @@
         "speechiness": 0.129,
         "tempo": 169.86,
         "trackTitle": "Fuck Your God",
-        "valence": 0.0459
+        "valence": 0.0459,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 1.17e-05,
@@ -2679,7 +2770,8 @@
         "speechiness": 0.0593,
         "tempo": 90.017,
         "trackTitle": "Flagellation",
-        "valence": 0.0392
+        "valence": 0.0392,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 1.69e-05,
@@ -2697,7 +2789,8 @@
         "speechiness": 0.0804,
         "tempo": 127.116,
         "trackTitle": "I Feel The Burning Sun",
-        "valence": 0.248
+        "valence": 0.248,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 0.000801,
@@ -2715,7 +2808,8 @@
         "speechiness": 0.0724,
         "tempo": 148.964,
         "trackTitle": "Existense Is Punishment",
-        "valence": 0.378
+        "valence": 0.378,
+        "genre": "Sludge Metal"
     },
     {
         "acousticness": 1.1e-05,
@@ -2733,7 +2827,8 @@
         "speechiness": 0.0901,
         "tempo": 110.363,
         "trackTitle": "Hymns in Dissonance",
-        "valence": 0.149
+        "valence": 0.149,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.000404,
@@ -2751,7 +2846,8 @@
         "speechiness": 0.0668,
         "tempo": 83.385,
         "trackTitle": "O Father O Satan O Sun!",
-        "valence": 0.18
+        "valence": 0.18,
+        "genre": "Blackened Death Metal"
     },
     {
         "acousticness": 1.84e-05,
@@ -2769,7 +2865,8 @@
         "speechiness": 0.291,
         "tempo": 80.123,
         "trackTitle": "Entombment of a Machine",
-        "valence": 0.215
+        "valence": 0.215,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 2.62e-05,
@@ -2787,7 +2884,8 @@
         "speechiness": 0.0666,
         "tempo": 100.071,
         "trackTitle": "I Will Find You",
-        "valence": 0.153
+        "valence": 0.153,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 2.19e-06,
@@ -2805,7 +2903,8 @@
         "speechiness": 0.247,
         "tempo": 130.1,
         "trackTitle": "Childchewer",
-        "valence": 0.278
+        "valence": 0.278,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 1.61e-06,
@@ -2823,7 +2922,8 @@
         "speechiness": 0.221,
         "tempo": 140.027,
         "trackTitle": "Three Bastards",
-        "valence": 0.0848
+        "valence": 0.0848,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 3.24e-05,
@@ -2841,7 +2941,8 @@
         "speechiness": 0.0499,
         "tempo": 119.945,
         "trackTitle": "I Long for Rest",
-        "valence": 0.357
+        "valence": 0.357,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.000246,
@@ -2859,7 +2960,8 @@
         "speechiness": 0.192,
         "tempo": 116.605,
         "trackTitle": "When a Demon Defiles a Witch",
-        "valence": 0.0365
+        "valence": 0.0365,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.00318,
@@ -2877,7 +2979,8 @@
         "speechiness": 0.0456,
         "tempo": 119.635,
         "trackTitle": "Hickory Creek",
-        "valence": 0.0511
+        "valence": 0.0511,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 7.12e-06,
@@ -2895,7 +2998,8 @@
         "speechiness": 0.143,
         "tempo": 117.491,
         "trackTitle": "Relinquished",
-        "valence": 0.23
+        "valence": 0.23,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 5.5e-06,
@@ -2913,7 +3017,8 @@
         "speechiness": 0.21,
         "tempo": 111.092,
         "trackTitle": "Knee Deep",
-        "valence": 0.276
+        "valence": 0.276,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 2.49e-05,
@@ -2931,7 +3036,8 @@
         "speechiness": 0.0996,
         "tempo": 87.46,
         "trackTitle": "A Bloodsoaked Symphony",
-        "valence": 0.117
+        "valence": 0.117,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.000407,
@@ -2949,7 +3055,8 @@
         "speechiness": 0.314,
         "tempo": 80.476,
         "trackTitle": "Blasphemian",
-        "valence": 0.0395
+        "valence": 0.0395,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 7.94e-06,
@@ -2967,7 +3074,8 @@
         "speechiness": 0.299,
         "tempo": 160.114,
         "trackTitle": "Soil the Stillborn",
-        "valence": 0.134
+        "valence": 0.134,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.000389,
@@ -2985,7 +3093,8 @@
         "speechiness": 0.125,
         "tempo": 130.008,
         "trackTitle": "What I Would Give",
-        "valence": 0.0946
+        "valence": 0.0946,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 6.44e-05,
@@ -3003,7 +3112,8 @@
         "speechiness": 0.278,
         "tempo": 141.636,
         "trackTitle": "The Battle of Yaldabaoth",
-        "valence": 0.259
+        "valence": 0.259,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.00014,
@@ -3021,7 +3131,8 @@
         "speechiness": 0.138,
         "tempo": 125.023,
         "trackTitle": "Leech",
-        "valence": 0.0399
+        "valence": 0.0399,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 6.57e-05,
@@ -3039,7 +3150,8 @@
         "speechiness": 0.0893,
         "tempo": 114.614,
         "trackTitle": "Prisoner 666",
-        "valence": 0.084
+        "valence": 0.084,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 7.4e-06,
@@ -3057,7 +3169,8 @@
         "speechiness": 0.0805,
         "tempo": 105.832,
         "trackTitle": "A Visceral Retch",
-        "valence": 0.196
+        "valence": 0.196,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 3.16e-06,
@@ -3075,7 +3188,8 @@
         "speechiness": 0.133,
         "tempo": 117.7,
         "trackTitle": "Hate Cult Ritual",
-        "valence": 0.127
+        "valence": 0.127,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 4.18e-06,
@@ -3093,7 +3207,8 @@
         "speechiness": 0.101,
         "tempo": 149.933,
         "trackTitle": "Bedlam",
-        "valence": 0.213
+        "valence": 0.213,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 2.51e-05,
@@ -3111,7 +3226,8 @@
         "speechiness": 0.203,
         "tempo": 117.573,
         "trackTitle": "Suspended by the Throat",
-        "valence": 0.299
+        "valence": 0.299,
+        "genre": "Deathcore"
     },
     {
         "acousticness": 0.000214,
@@ -3129,6 +3245,7 @@
         "speechiness": 0.406,
         "tempo": 87.474,
         "trackTitle": "Unholy Gravebirth",
-        "valence": 0.0397
+        "valence": 0.0397,
+        "genre": "Deathcore"
     }
 ]
